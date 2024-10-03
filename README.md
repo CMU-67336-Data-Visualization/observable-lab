@@ -6,6 +6,7 @@ This lab is the "Hello World" equivalent for learning Observable and goes throug
 *Have fun creating and deploying your first dashboard with Observable!*
 
 <h2>Table of Challenges</h2>
+
 Challenge 1: **Getting Started**
 > Challenge 1.1: Git for Version Control
 
