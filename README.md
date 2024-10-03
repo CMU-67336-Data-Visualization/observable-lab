@@ -26,4 +26,4 @@ Challenge 7: **Deploying Your Dashboard**
 > Challenge 7.2: Deployment
 
 
-*Challenges 1 through 4 are adapted from [the official "Getting Started" tutorial](https://observablehq.com/framework/getting-started) from Observable Framework.*
+*Challenges 1 through 6 are adapted from [the official "Getting Started" tutorial](https://observablehq.com/framework/getting-started) from Observable Framework.*
